@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I am Hariom Patidar :
 I am a passionate and dedicated learner currently pursuing Artificial Intelligence and Machine Learning (AI/ML) along with Data Science.<br>I have a strong interest in building intelligent systems that can solve real-world problems using data-driven approaches.<br>I am continuously learning new technologies and improving my skills in areas like Deep Learning, data visualization, and model deployment.<br>I am skilled in Python, Machine Learning algorithms, and data analysis using libraries like Pandas and NumPy.<br>
 
 
