@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hariom Patidar</h1>
+<h1 align="center">Hi, I'm Hariom Patidar</h1>
 
-<h3 align="center">🚀 AI/ML & Data Science Enthusiast</h3>
+<h3 align="center"> AI/ML & Data Science Enthusiast</h3>
 
 <p align="center">
 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Backend Development.
@@ -100,5 +100,5 @@ I enjoy building intelligent systems and solving real-world problems using data-
 ---
 
 <p align="center">
-⭐ <i>"Consistency and continuous learning are the keys to growth."</i>
+ <i>"Consistency and continuous learning are the keys to growth."</i>
 </p>
