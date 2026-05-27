@@ -4,7 +4,7 @@
 
 <p align="center">
 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Backend Development.
-I enjoy building intelligent systems and solving real-world problems using data-driven solutions.
+I enjoy building intelligent systems and solving real-world problems using data-driven solutions. 
 </p>
 
 ---
