@@ -84,7 +84,7 @@
 
 ---
 
-## 📊 GitHub Analytics & Performance
+## 📊 GitHub Analytics & Contribution Insights
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Hariom-patidar-tech?label=Followers&style=for-the-badge&color=46E3B7&logo=github" alt="Followers" />
@@ -94,9 +94,19 @@
 
 <p align="center">
   <a href="https://github.com/Hariom-patidar-tech">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hariom-patidar-tech&theme=tokyonight" alt="Hariom's Contribution Summary" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hariom-patidar-tech">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariom-patidar-tech&theme=tokyonight&area=true&category=commits" alt="Hariom's Activity Graph" width="100%" />
   </a>
 </p>
+
+### 📈 Contribution Tracking
+- **Total Contributions:** Pehla card aapke total commits, pull requests, aur issues ka exact count live dikhayega.
+- **Commit Trends:** Niche ka dynamic graph aapke daily contribution patterns aur coding frequency ko timeline par show karega.
 
 ### 📈 Contribution Insights
 - ⚡ **Real-time Metrics:** Yeh badges aapke total followers, star counts aur repositories ko live tracks karte hain.
