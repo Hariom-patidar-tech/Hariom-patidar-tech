@@ -8,8 +8,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghvc/?username=Hariom-patidar-tech&label=PROFILE+VIEWS&color=0077B5&style=flat-square" alt="Profile Views" />
-</p>
+  <img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/a1f8163b-c608-4c73-a67e-3ba12c8f61a9" />
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hariom-patidar-6574ba290/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
