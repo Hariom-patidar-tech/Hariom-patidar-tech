@@ -84,16 +84,23 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hariom-patidar-tech&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Hariom's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariom-patidar-tech&theme=tokyonight&hide_border=true" height="170" alt="Hariom's GitHub streak" />
+  <img src="https://img.shields.io/github/followers/Hariom-patidar-tech?label=Followers&style=for-the-badge&color=46E3B7&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Hariom-patidar-tech?label=Total%20Stars&style=for-the-badge&color=0077B5&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-count/Hariom-patidar-tech?label=Repositories&style=for-the-badge&color=FF6F00&logo=git" alt="Repositories" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom-patidar-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Hariom's top languages" />
+  <a href="https://github.com/Hariom-patidar-tech">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariom-patidar-tech&theme=tokyonight&area=true&category=commits" alt="Hariom's Activity Graph" width="100%" />
+  </a>
 </p>
+
+### 📈 Contribution Insights
+- ⚡ **Real-time Metrics:** Yeh badges aapke total followers, star counts aur repositories ko live tracks karte hain.
+- 📉 **Commit Trends:** Niche ka dynamic graph aapke daily contribution patterns aur coding frequency ko visual form me show karega.
 
 ---
 
