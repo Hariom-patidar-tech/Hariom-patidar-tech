@@ -104,10 +104,6 @@
 
 ---
 
-## 🪐 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariom-patidar-tech&theme=tokyonight&area=true&category=commits" alt="Hariom's Activity Graph" />
-</p>
 
 ---
 
