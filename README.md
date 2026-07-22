@@ -84,19 +84,7 @@
 
 ---
 
-## 📊 GitHub Analytics & Contribution Insights
-
-<!-- <p align="center">
-  <img src="https://img.shields.io/github/followers/Hariom-patidar-tech?label=Followers&style=for-the-badge&color=46E3B7&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Hariom-patidar-tech?label=Total%20Stars&style=for-the-badge&color=0077B5&logo=github" alt="Stars" />
-  <img src="https://img.shields.io/github/repo-count/Hariom-patidar-tech?label=Repositories&style=for-the-badge&color=FF6F00&logo=git" alt="Repositories" />
-</p> -->
-
-<!-- <p align="center">
-  <a href="https://github.com/Hariom-patidar-tech">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hariom-patidar-tech&theme=tokyonight" alt="Hariom's Contribution Summary" width="100%" />
-  </a>
-</p> -->
+## 📊 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Hariom-patidar-tech">
